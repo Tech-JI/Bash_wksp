@@ -1,5 +1,7 @@
 # Bash Workshop
 
+This repo contains files for bash workshop, which are mainly forked from 2023 Bash Workshop held by Frederick Yin.
+
 Dependencies:
 
 - LaTeX
